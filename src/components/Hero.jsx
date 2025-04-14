@@ -2,7 +2,7 @@ const Hero = () => {
   return (
     <section className="py-16 bg-gradient-to-b from-teal-500 to-teal-400 text-white">
       <div className="max-w-4xl mx-auto text-center border-4 border-white rounded-lg shadow-lg p-8">
-        <h2 className="text-5xl font-extrabold mb-4">
+        <h2 className="text-4xl font-extrabold mb-4">
           Hi, I’m Aviv Natan <span className="wave">👋</span>
         </h2>
         <p className="text-xl leading-relaxed max-w-3xl mx-auto">
