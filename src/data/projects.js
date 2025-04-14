@@ -14,7 +14,7 @@ const projects = [
     },
     {
       title: "SafeChat",
-      description: "SafeChat is an interactive platform designed to promote online safety. Users can send messages in a chat-like interface and receive real-time feedback about potential safety risks. The system also provides a history of conversations to help users reflect and learn. Technologies: React, Node.js, MongoDB, Express, JavaScript.",
+      description: "Hackathon Project | QueenB & AppsFlyer - SafeChat is an interactive platform designed to promote online safety. Users can send messages in a chat-like interface and receive real-time feedback about potential safety risks. The system also provides a history of conversations to help users reflect and learn. Technologies: React, Node.js, MongoDB, Express, JavaScript.",
       image: safeChatImage,
       githubLink: "https://github.com/AvivNatan/BeSafeHackathon2025.git"
     },

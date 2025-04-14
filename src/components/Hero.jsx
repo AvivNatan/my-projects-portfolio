@@ -8,8 +8,7 @@ const Hero = () => {
         <p className="text-xl leading-relaxed max-w-3xl mx-auto">
           I'm a passionate software developer driven by curiosity and creativity.
           <br />
-          Coding, to me, is more than logic and syntax — it's a form of expression, a way to build, create, and make a
-          <span className="font-semibold text-yellow-300"> difference.</span>
+          Coding, to me, is more than logic and syntax — it's a form of expression, a way to build, create, and make a difference.
           <br />
           I'm deeply excited about technology and constantly eager to learn and explore new tools and frameworks.
           <br />
