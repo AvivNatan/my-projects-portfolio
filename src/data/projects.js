@@ -4,6 +4,7 @@ import unrecognizedUserImage from '../images/NLP.png';
 import facebookImage from '../images/facebook.png';
 import bookStoreImage from '../images/bookStroe.jpeg';
 import chatShieldImage from '../images/chatShield.jpeg';
+import WebServerImage from '../images/tcp.png';
 
 const projects = [
     {
@@ -35,6 +36,12 @@ const projects = [
       description: "Books Server Project – A backend system for managing a book inventory, developed using Java, Spring Boot, and Hibernate ORM. The server supports full CRUD operations, filtering, and logging with Logback. It includes persistence with both PostgreSQL and MongoDB, and is fully containerized using Docker and docker-compose. The project demonstrates my ability to build scalable, modular backend applications using modern development tools.",
       image: bookStoreImage,
       githubLink: "https://github.com/AvivNatan/Book-Store.git"
+    },
+    {
+      title: "Web Server",
+      description: "The Time Server project is a robust network server implemented in C++14, utilizing the Winsock2 library for efficient socket communication. This server is designed to handle multiple client connections simultaneously, supporting various HTTP methods such as GET, POST, PUT, DELETE, HEAD, TRACE, and OPTIONS. It employs non-blocking I/O operations to ensure smooth and responsive performance, even under heavy load. Additionally, the server includes timeout management to close inactive connections, optimizing resource usage. This project showcases my skills in network programming, C++ development, and handling real-time data communication.",
+      image: WebServerImage,
+      githubLink: "https://github.com/AvivNatan/TCP-server-NonBlocking.git"
     },
     {
       title: "Chat Shield",
