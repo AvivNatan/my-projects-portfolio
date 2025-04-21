@@ -20,7 +20,7 @@ const projects = [
       githubLink: "https://github.com/AvivNatan/BeSafeHackathon2025.git"
     },
     {
-      title: "Facebook App",
+      title: "Facebook Application",
       description: "This is a desktop Facebook application built with C# and the Facebook Graph API. The app provides enhanced user interaction with Facebook data through a Windows Forms interface. It features a user-friendly design pattern architecture that makes the code maintainable, extensible, and organized.",
       image: facebookImage,
       githubLink: "https://github.com/AvivNatan/Facebook-App-Design-Patterns.git"
